@@ -1,0 +1,6 @@
+ab$$$c;
+2\nnum int\n num1 = 34;
+float\n num2= 20.5;
+char c;
+long ab$$$c;
+return 0;
